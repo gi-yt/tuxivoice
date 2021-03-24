@@ -13,7 +13,7 @@ Install the dependencies and create the files tuxi.txt and file.txt in your home
 
 Then git clone the repo and put tuxivoice in /usr/bin.
 
-That is it, you have installed tuxi
+That is it, you have installed tuxivoice
 ## Useful Tips
 To Clear History Delete the contents of tuxi.txt
 
@@ -24,3 +24,13 @@ export LANG=en_US.UTF-8
 This will set your locale as en_US with UTF-8.
 
 This is a very well supported locale, so it will work flawlessly with dmenu.
+
+## License
+This script is licensed under the GNU General Public License v3
+## Use Of This Script
+You Can Use This Script Anywhere Under The Guidelines of The GPL v3.
+
+Please Credit Me If you indeed fork the script.
+
+## Credits
+BugsWriter : Tuxi
