@@ -1,5 +1,3 @@
-# tuxivoice
-This Is a tuxi voice Script
 ## Dependencies
 [tuxi](https://github.com/bugswriter/tuxi), [dmenu](https://tools.suckless.org/dmenu/), [grep](https://www.gnu.org/software/grep/), [cat](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html), [festival](http://festvox.org/festival/) with a voice pack(festival festival-us festival-english need to be downloaded for arch based distros)
 ## Installation
