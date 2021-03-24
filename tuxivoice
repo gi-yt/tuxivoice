@@ -1,6 +1,8 @@
 #!/bin/sh
+cd ~/
 query="$(cat ~/tuxi.txt | dmenu)"
 LINE="$query"
 FILE="tuxi.txt"
 grep -qF -- "$LINE" "$FILE" || echo "$LINE" >> "$FILE"
-tuxi -rq "$query" > ~/file.txt && festival --tts "file.txt"
+tuxi -rq "$query" > ~/file.txt 
+festival --tts "file.txt"
