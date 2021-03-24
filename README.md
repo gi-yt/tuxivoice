@@ -17,10 +17,10 @@ That is it, you have installed tuxi
 ## Useful Tips
 To Clear History Delete the contents of tuxi.txt
 
-file.txt will contain the answer text. Do not touch it!!!
-
 if dmenu doesn't display, do the command 
 
 export LANG=en_US.UTF-8 
 
-It  may be because of your locale.
+This will set your locale as en_US with UTF-8.
+
+This is a very well supported locale, so it will work flawlessly with dmenu.
