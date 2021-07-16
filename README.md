@@ -34,5 +34,7 @@ Please Credit Me If you indeed fork the script.
 
 ## Credits
 BugsWriter : Tuxi
-
+## Codeberg
+This project is available on codeberg
+https://codeberg.org/aryak/tuxivoice
 # Thanks In Advance For Using This Script
